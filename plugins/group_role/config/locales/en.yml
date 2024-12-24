@@ -1,0 +1,17 @@
+en:
+  group_roles_plugin:
+    admin_title: "Manage Group Roles"
+    select_group: "Select a Group"
+    select_group_placeholder: "Choose a group to manage roles"
+    assign_role_title: "Assign or Remove Roles"
+    user: "User"
+    role: "Role"
+    actions: "Actions"
+    select_role: "Select Role"
+    roles:
+      group_admin: "Group Admin"
+      moderator: "Moderator"
+      member: "Member"
+    role_assigned_success: "Role assigned successfully!"
+    role_removed_success: "Role removed successfully!"
+    remove_role: "Remove Role"
