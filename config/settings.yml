@@ -1,8 +1,5 @@
-plugins:
-  group_roles_plugin:
-    enabled_site_setting:
-      group_roles_enabled:
-        default: true
-        client: true
-        type: boolean
-        description: "Enable or disable the group roles plugin"
+group_roles_enabled:
+  default: true
+  client: true
+  type: boolean
+  description: "Enable or disable the group roles plugin"
